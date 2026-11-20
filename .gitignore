@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.csv.tmp
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
